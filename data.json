@@ -1,0 +1,23 @@
+[
+	{
+		"id": "1",
+		"name": "B Ji",
+		"pricePoint":"low"
+	},
+	{
+		"id": "2",
+		"name": "1 Hao",
+		"pricePoint":"high"
+	},
+	{
+		"id": "3",
+		"name": "32 Hao",
+		"pricePoint":"low"
+	},
+	{
+		"id": "4",
+		"name": "Tian Xia",
+		"pricePoint":"low"
+	},
+	
+]
