@@ -2,22 +2,156 @@
 	{
 		"id": "1",
 		"name": "B Ji",
-		"pricePoint":"low"
+		"pricePoint": "low"
 	},
 	{
 		"id": "2",
 		"name": "1 Hao",
-		"pricePoint":"high"
+		"pricePoint": "high"
 	},
 	{
 		"id": "3",
 		"name": "32 Hao",
-		"pricePoint":"low"
+		"pricePoint": "low"
 	},
 	{
 		"id": "4",
 		"name": "Tian Xia",
-		"pricePoint":"low"
+		"pricePoint": "medium"
 	},
-	
+	{
+		"id": "5",
+		"name": "Madam Wong",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "6",
+		"name": "Ji Ji",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "7",
+		"name": "Fan Hwa",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "8",
+		"name": "No Signboard",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "9",
+		"name": "666",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "10",
+		"name": "Fun Fun",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "11",
+		"name": "Meet Mee",
+		"pricePoint": "high"
+	},
+	{
+		"id": "12",
+		"name": "Machi Noodle",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "13",
+		"name": "88",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "14",
+		"name": "Qiu Tai",
+		"pricePoint": "high"
+	},
+	{
+		"id": "15",
+		"name": "Shi Dao",
+		"pricePoint": "high"
+	},
+	{
+		"id": "16",
+		"name": "Mye Mye",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "17",
+		"name": "First Level Got Food",
+		"pricePoint": "low"
+	},
+	{
+		"id": "18",
+		"name": "Sushi Mentai",
+		"pricePoint": "high"
+	},
+	{
+		"id": "19",
+		"name": "Taiwan Tea House",
+		"pricePoint": "high"
+	},
+	{
+		"id": "20",
+		"name": "MZ Bistro",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "21",
+		"name": "Soluto",
+		"pricePoint": "high"
+	},
+	{
+		"id": "22",
+		"name": "Azhaar",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "23",
+		"name": "Mysotis",
+		"pricePoint": "high"
+	},
+	{
+		"id": "24",
+		"name": "Amite",
+		"pricePoint": "high"
+	},
+	{
+		"id": "25",
+		"name": "Charles Nihon Kitchen",
+		"pricePoint": "high"
+	},
+	{
+		"id": "26",
+		"name": "Thai Boy",
+		"pricePoint": "high"
+	},
+	{
+		"id": "27",
+		"name": "KFC",
+		"pricePoint": "high"
+	},
+	{
+		"id": "28",
+		"name": "Subway",
+		"pricePoint": "high"
+	},
+	{
+		"id": "29",
+		"name": "M Cool Bistro",
+		"pricePoint": "medium"
+	},
+	{
+		"id": "30",
+		"name": "Old Town",
+		"pricePoint": "high"
+	},
+	{
+		"id": "31",
+		"name": "Taiwan Dami",
+		"pricePoint": "high"
+	}
 ]
